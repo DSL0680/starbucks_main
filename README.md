@@ -1,12 +1,3 @@
-# :ballot_box_with_check: starbucks-vanilla
-
-
-## 🎯 Links (DEMO / Github Repository)
-
-[DEMO](https://rncst.github.io/starbucks-vanilla/)
-
-[Repository](rncststarbucks.netlify.app)
-
 ## 📖 What I USE 
 
 - HTML 
