@@ -2,7 +2,7 @@
 
 - HTML 
 - CSS 
-- JAVASCRIPT 
+- javascript 
   - gsap (javascript animation library) [link](https://greensock.com/docs/v3/GSAP)
   - gsap-ScrollToPlugin (javascript animation library) [link](https://greensock.com/docs/v3/GSAP)
   - lodash (javascript library (use .throttle)) [link](https://lodash.com/)
